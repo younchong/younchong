@@ -1,2 +1,3 @@
-- 👋 Hi, I’m Youngun Kim
-- 👀 I’m interested in Web, App
+Always be learning
+Always be earning
+Always be getting back and enjoying what i'm doing
